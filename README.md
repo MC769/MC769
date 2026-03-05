@@ -17,7 +17,6 @@ I'm a passionate Python developer with experience in full-stack web development,
 
 - 🔭 I’m currently working on various Python and web development projects
 - 🌱 I’m learning advanced cloud architectures and machine learning
-- 👨‍💻 All my projects are available at [https://chiran.43web.io](https://chiran.43web.io)
 - 📫 How to reach me: Check my social links below
 - ⚡ Fun fact: I love blending creativity with technology
 
