@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chiran Pathmaperuma
+# 👋 Hi
 
 ### 🐍 Full-Stack Developer
 
