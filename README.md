@@ -4,9 +4,6 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MC769&label=Profile%20views&color=0e75b6&style=flat" alt="MC769 profile views" />
-  <a href="https://twitter.com/cn_245">
-    <img src="https://img.shields.io/twitter/follow/cn_245?logo=twitter&style=flat" alt="Twitter Follow" />
-  </a>
 </p>
 
 ---
@@ -81,10 +78,6 @@ I'm a passionate Python developer with experience in full-stack web development,
   </a>
   <a href="https://linkedin.com/in/chiran-pathmaperuma" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/cn_245" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40"/>
-  </a>
 </p>
 
 
