@@ -1,13 +1,5 @@
 # 👋 Hi
 
-### 🐍 Full-Stack Developer
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MC769&label=Profile%20views&color=0e75b6&style=flat" alt="MC769 profile views" />
-</p>
-
----
-
 ## 🚀 About Me
 
 I'm a passionate Python developer with experience in full-stack web development, cloud computing, and IoT. I enjoy building scalable applications and exploring new technologies.
