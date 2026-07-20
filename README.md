@@ -42,12 +42,7 @@ root@dev:~$ cat tech_stack.txt
 root@dev:~$ ./fetch_stats.sh
 ```
 
-<div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MC769&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00&ring_color=00FF00" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MC769&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00" />
-
-</div>
 
 <div align="center">
 
