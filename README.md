@@ -57,8 +57,8 @@ root@dev:~$ cat contact.txt
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=00FF00)](https://github.com/MC769)
-[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=00FF00)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/your-handle)
+[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=00FF00)](mailto:cnbro1516@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/chiran-pathmaperuma)
 [![Twitter/X](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=00FF00)](https://x.com/your-handle)
 
 </div>
