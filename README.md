@@ -1,78 +1,80 @@
-# 👋 Hi
+<div align="center">
 
-## 🚀 About Me
+```
+   ██████╗  ██████╗  ██████╗ ████████╗
+   ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝
+██████╔╝██║   ██║██║   ██║   ██║
+██╔══██╗██║   ██║██║   ██║   ██║
+██║  ██║╚██████╔╝╚██████╔╝   ██║
+╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝
+      @  D  E  V
+```
 
-I'm a passionate Python developer with experience in full-stack web development, cloud computing, and IoT. I enjoy building scalable applications and exploring new technologies.
+</div>
 
-- 🔭 I’m currently working on various Python and web development projects
-- 🌱 I’m learning advanced cloud architectures and machine learning
-- 📫 How to reach me: Check my social links below
-- ⚡ Fun fact: I love blending creativity with technology
+```bash
+root@dev:~$ whoami
+```
 
----
+```
+> Developer. Builder. Terminal-dweller.
+> Based in the shell, shipping in the wild.
+```
 
-## 📊 GitHub Stats
+```bash
+root@dev:~$ cat tech_stack.txt
+```
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MC769&theme=radical&hide_border=true" alt="MC769's GitHub streak" width="48%" />
-</p>
+<div align="center">
 
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=00FF00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF00)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF00)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00FF00)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=00FF00)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=00FF00)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=00FF00)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=00FF00)
 
+</div>
 
+```bash
+root@dev:~$ ./fetch_stats.sh
+```
 
+<div align="center">
 
----
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MC769&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00&ring_color=00FF00" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MC769&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00" />
 
-## 🛠️ Technologies & Tools
+</div>
 
-### Programming Languages
-![Python](https://skillicons.dev/icons?i=py)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Java](https://skillicons.dev/icons?i=java)
-![Kotlin](https://skillicons.dev/icons?i=kotlin)
+<div align="center">
 
-### Frontend Development
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![Flutter](https://skillicons.dev/icons?i=flutter)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MC769&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00&currStreakNum=00FF00&sideNums=00FF00)
 
-### Backend Development
-![Django](https://skillicons.dev/icons?i=django)
-![Flask](https://skillicons.dev/icons?i=flask)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
+</div>
 
-### DevOps & Cloud
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Git](https://skillicons.dev/icons?i=git)
+```bash
+root@dev:~$ cat contact.txt
+```
 
-### Databases
-![Oracle](https://skillicons.dev/icons?i=firebase)
+<div align="center">
 
-### Design & Creative
-![Figma](https://skillicons.dev/icons?i=figma)
-![Blender](https://skillicons.dev/icons?i=blender)
-![Photoshop](https://skillicons.dev/icons?i=photoshop)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=00FF00)](https://github.com/MC769)
+[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=00FF00)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/your-handle)
+[![Twitter/X](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=00FF00)](https://x.com/your-handle)
 
-### IoT & Hardware
-![Arduino](https://skillicons.dev/icons?i=arduino)
+</div>
 
----
+```bash
+root@dev:~$ exit
+> process terminated. thanks for stopping by.
+```
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/MC769" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/chiran-pathmaperuma" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=MC769&color=00FF00&style=flat-square&label=TERMINAL+VISITS)
 
-
-<p align="center">
-  <i>Thanks for visiting my profile! Have a great day! 😊</i>
-</p>
+</div>
