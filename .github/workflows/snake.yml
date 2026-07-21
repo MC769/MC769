@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: MC769
           outputs: |
-            dist/snake.svg
+            dist/snake.svg?color_snake=#FF6B6B&color_dots=#E8E8E8,#FFB3BA,#FF6B6B,#FF3B3B,#C70000
             dist/snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
