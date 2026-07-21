@@ -42,7 +42,11 @@ root@dev:~$ cat tech_stack.txt
 root@dev:~$ ./fetch_stats.sh
 ```
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MC769/MC769/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MC769/MC769/output/snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MC769/MC769/output/snake.svg" />
+</picture>
 
 <div align="center">
 
