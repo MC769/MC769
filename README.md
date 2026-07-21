@@ -46,7 +46,11 @@ root@dev:~$ ./fetch_stats.sh
 
 <div align="center">
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MC769/MC769/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MC769/MC769/output/snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MC769/MC769/output/snake.svg" />
+</picture>
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MC769&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00&currStreakNum=00FF00&sideNums=00FF00)
 
